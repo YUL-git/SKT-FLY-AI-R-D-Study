@@ -31,6 +31,7 @@ Computer Vision and Front-end Study Group held at SKT FLY AI
   </tr>
 </table>
 
+## Goals and expectations
 ## File Structure
 ```
 ┖ Jeongin Lee
