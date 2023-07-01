@@ -11,9 +11,9 @@ Computer Vision and Front-end Study Group held at SKT FLY AI
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/">
+      <a href="https://github.com/johanik">
         <img src="" width="120px;" alt="teammember2" /><br />
-        <h4><b><a href="https://github.com/">Hanik Cho</b></h4>
+        <h4><b><a href="https://github.com/johanik">Hanik Jo</b></h4>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
@@ -35,6 +35,7 @@ Computer Vision and Front-end Study Group held at SKT FLY AI
 - 구체적이고 실현 가능한 목표를 찾음
 - 결과물 제출 감안하여 가시적인 성과 확인 가능한 목표 설정
 
+## 
 ## File Structure
 ```
 ┖ Jeongin Lee
