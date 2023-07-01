@@ -5,7 +5,7 @@ Computer Vision and Front-end Study Group held at SKT FLY AI
 AI solution that Classifies the Product Quality
 
 ## Team member
-|<img src="https://avatars.githubusercontent.com/jeongiin" width="100">| <img src="https://avatars.githubusercontent.com/HannahYun" width="100">|<img src="https://avatars.githubusercontent.com/YUL-git" width="100">|<img src="https://avatars.githubusercontent.com/HannahYun" width="100">
+|<img src="https://avatars.githubusercontent.com/lastdefiance20" width="100">| <img src="https://avatars.githubusercontent.com/HannahYun" width="100">|<img src="https://avatars.githubusercontent.com/YUL-git" width="100">|
 |-|-|-|
 |[Jaeyoon Jung](https://github.com/lastdefiance20), Leader|[Hannah Yun](https://github.com/HannahYun)|[Jiyul Ham](https://github.com/YUL-git)|
 
