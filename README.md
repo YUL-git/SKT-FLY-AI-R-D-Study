@@ -12,7 +12,7 @@ Computer Vision and Front-end Study Group held at SKT FLY AI
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/johanik">
-        <img src="" width="120px;" alt="teammember2" /><br />
+        <img src="https://avatars.githubusercontent.com/u/77598802?v=4" width="120px;" alt="teammember2" /><br />
         <h4><b><a href="https://github.com/johanik">Hanik Jo</b></h4>
       </a>
     </td>
