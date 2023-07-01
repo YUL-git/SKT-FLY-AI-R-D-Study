@@ -5,7 +5,7 @@ Computer Vision and Front-end Study Group held at SKT FLY AI
 AI solution that Classifies the Product Quality
 
 ## Team member
-|<img src="https://avatars.githubusercontent.com/timdalxx" width="100">| <img src="https://avatars.githubusercontent.com/" width="100">|<img src="https://avatars.githubusercontent.com/YUL-git" width="100">||<img src="https://avatars.githubusercontent.com/yunhee1" width="100">  
+|<img src="https://avatars.githubusercontent.com/jeongiin" width="100">| <img src="https://avatars.githubusercontent.com/" width="100">|<img src="https://avatars.githubusercontent.com/YUL-git" width="100">||<img src="https://avatars.githubusercontent.com/yunhee1" width="100">  
 |-|-|-|-|
 Leader|[Jeongin Lee](https://github.com/jeongiin), |[Hanik Cho](https://github.com/), |[Jiyul Ham](https://github.com/YUL-git), |[Yoonhee Hwang](https://github.com/yunhee1)  
 
