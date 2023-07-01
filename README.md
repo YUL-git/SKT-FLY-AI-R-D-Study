@@ -85,6 +85,8 @@ React를 활용하여 사용자 친화적인 인터페이스를 개발, 이미�
   ┖ ~
 ┖ Yoonhee Hwang
   ┖ ~
+┖ figures
+  ┖ ~
 ```
 
 ## Team Plan for Our happiness
