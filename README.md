@@ -2,16 +2,15 @@
 Computer Vision and Front-end Study Group held at SKT FLY AI
 
 # 2023 LG DISPLAY Quality Classification 1st place Solution
-AI solution that Classifies the Product Quality
 
 ## Team member
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/jeongiin"><img src="https://avatars.githubusercontent.com/u/70461025?v=4" width="200px;" alt="teammember1"/><br /><h3><b><a href="https://github.com/jeongiin">Jeongin Lee</b></h3></a><br /></td>
+    <td align="center"><a href="https://github.com/jeongiin"><img src="https://avatars.githubusercontent.com/u/48753785?v=4" width="200px;" alt="teammember1"/><br /><h3><b><a href="https://github.com/jeongiin">Jeongin Lee</b></h3></a><br /></td>
     <td align="center"><a href="https://github.com/"><img
-src="https://avatars.githubusercontent.com/u/49609175?v=4" width="200px;" alt="teammember2"/><br /><h3><b><a href="https://github.com/">Hanik Cho</b></h3></a><br /></td>
-    <td align="center"><a href="https://github.com/YUL-git"><img src="https://avatars.githubusercontent.com/u/90239125?v=4" width="200px;" alt="teammember2"/><br /><h3><b><a href="https://github.com/Naseungchae">Naseungchae</b></h3></a><br /></td>
-    <td align="center"><a href="https://github.com/YUL-git"><img src="https://avatars.githubusercontent.com/u/89930713?v=4" width="200px;" alt="teammember2"/><br /><h3><b><a href="https://github.com/YUL-git">YUL</b></h3></a><br /></td>
+src="" width="200px;" alt="teammember2"/><br /><h3><b><a href="https://github.com/">Hanik Cho</b></h3></a><br /></td>
+    <td align="center"><a href="https://github.com/YUL-git"><img src="https://avatars.githubusercontent.com/u/89930713?v=4" width="200px;" alt="teammember2"/><br /><h3><b><a href="https://github.com/YUL-git">Jiyul Ham</b></h3></a><br /></td>
+    <td align="center"><a href="https://github.com/YUL-git"><img src="https://avatars.githubusercontent.com/u/100117015?v=4" width="200px;" alt="teammember2"/><br /><h3><b><a href="https://github.com/yunhee1">Yoonhee Hwang</b></h3></a><br /></td>
   </tr>
 <table>
   
