@@ -30,7 +30,20 @@ Computer Vision and Front-end Study Group held at SKT FLY AI
     </td>
   </tr>
 </table>
+          
+## About Study
+```
+빠른 속도로 발전하는 컴퓨터 비전 기술 중 이미지 생성, 객체 탐지 등에 관련된 최신 연구를 분석하는 스터디를 진행할 예정이다. 차후에는 최신 연구 조사에서 나아가 서비스로 확장할 수 있는 기술을 익힌다.
 
+1. Research : Image Generation
+이미지 생성을 위한 딥러닝 모델인 GAN(Generative Adversarial Network), VAE(Variational Auto Encoder), 플로우 기반 모델 등과 같은 다양한 딥러닝 아키텍처를 탐구한다.
+
+2. Research : Object Detection
+객체 검출을 위한 딥러닝 기법인 객체를 자동으로 감지하는 딥러닝 기법을 탐구한다. 예를 들어, Faster R-CNN, YOLO, SSD와 같은 객체 검출 알고리즘을 연구할 수 있다.
+
+3. Develope: Front-end
+다양한 플랫폼에서 동작하는 사용자 친화적인 인터페이스를 개발하는 기술을 익힌다. 주요 프레임워크는 React를 사용한다.
+```
 ## Goals and expectations
 ```
 1. Research : Image Generation
