@@ -32,6 +32,8 @@ Computer Vision and Front-end Study Group held at SKT FLY AI
 </table>
 
 ## Goals and expectations
+- 구체적이고 실현 가능한 목표를 찾음
+- 결과물 제출 감안하여 가시적인 성과 확인 가능한 목표 설정
 
 ## File Structure
 ```
