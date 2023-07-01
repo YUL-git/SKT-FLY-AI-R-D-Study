@@ -88,6 +88,6 @@ React를 활용하여 사용자 친화적인 인터페이스를 개발, 이미�
 ```
 
 ## Team Plan for Our happiness
-<img src="./figures/pingping.png" width="300px" height="300px" alt="Goods" />
+<img src="./figures/pingping.png" width="200px" height="200px" alt="Goods" />
 
 
