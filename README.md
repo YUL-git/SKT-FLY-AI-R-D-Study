@@ -1,6 +1,8 @@
 # SKT-FLY-AI-Computer-vision-and-Front-end-Study
 Computer Vision and Front-end Study Group held at SKT FLY AI
 
+> Blog : [Study Blog](https://www.notion.so/STUDY-COMPUTER-VISION-6fec84048b7a49eb856bd3fa380ccba9)
+
 ## Team member
 <table style="border-collapse: collapse; cellspacing: 0; cellpadding: 0;">
   <tr>
@@ -85,5 +87,5 @@ React를 활용하여 사용자 친화적인 인터페이스를 개발, 이미�
   ┖ ~
 ```
 ## Team Plan for Our happiness
-![Goods](./figures/.png)
+![Goods](./figures/pingping.png)
 
