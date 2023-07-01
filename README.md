@@ -8,7 +8,7 @@ AI solution that Classifies the Product Quality
 |<img src="https://avatars.githubusercontent.com/jeongiin" width="100">| <img src="https://avatars.githubusercontent.com/" width="100">|<img 
 src="https://avatars.githubusercontent.com/YUL-git" width="100">|<img src="https://avatars.githubusercontent.com/yunhee1" width="100">|
 |-|-|-|-|
-Leader|[Jeongin Lee](https://github.com/jeongiin), |[Hanik Cho](https://github.com/), |[Jiyul Ham](https://github.com/YUL-git), |[Yoonhee Hwang](https://github.com/yunhee1)  
+|[Jeongin Lee](https://github.com/jeongiin),Leader|[Hanik Cho](https://github.com/), |[Jiyul Ham](https://github.com/YUL-git), |[Yoonhee Hwang](https://github.com/yunhee1)  
 
 ## File Structure
 ```
