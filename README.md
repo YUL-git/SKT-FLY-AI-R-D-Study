@@ -33,7 +33,7 @@ Computer Vision and Front-end Study Group held at SKT FLY AI
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/sunmin-lee99">
         <img src="https://avatars.githubusercontent.com/u/79503414?v=4" width="120px;" alt="teammember2" /><br />
-        <h4><b><a href="https://github.com/yunhee1">Sunmin Lee</b></h4>
+        <h4><b><a href="https://github.com/sunmin-lee99">Sunmin Lee</b></h4>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
