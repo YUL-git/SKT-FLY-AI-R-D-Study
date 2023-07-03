@@ -1,4 +1,4 @@
-# SKT-FLY-AI-Computer-vision-and-Front-end-Study
+# SKT-FLY-AI-R&D-Study
 Computer Vision and Front-end Study Group held at SKT FLY AI
 
 > Blog : [Study Blog](https://www.notion.so/STUDY-COMPUTER-VISION-6fec84048b7a49eb856bd3fa380ccba9)
